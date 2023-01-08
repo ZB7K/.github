@@ -1,12 +1,15 @@
-## Hi there 👋
+<span align="center">
 
-<!--
+# ZB7K DAO ⟠
 
-**Here are some ideas to get you started:**
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/@ZB7Kcash)
+[![ZB7K.eth](https://img.shields.io/static/v1?label=&message=ZB7K.eth&color=black&logo=ethereum&logoColor=white)](https://etherscan.io/enslookup-search?search=ZB7K.eth)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+---
+  
+ ![WLdao](https://user-images.githubusercontent.com/113842155/208044825-0ed4bc73-b23f-4f95-ab60-77c12ab33c52.gif)
+
+---
+
+</span>
